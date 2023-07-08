@@ -1,0 +1,46 @@
+.contenedor-cards {
+    display: flex;
+    flex-direction: column;
+    flex: wrap;
+    align-items: center;
+}
+
+.c1 {
+    width: auto;
+    display: flex;
+    height: auto;
+    margin-top: 30px;
+    padding-top: 30px;
+    flex-direction: column;
+    flex: wrap;
+}
+
+.c2 {
+    width: auto;
+    display: flex;
+    height: auto;
+    margin-top: 30px;
+    padding-top: 30px;
+    flex-direction: column;
+    flex: wrap;
+}
+
+.c3 {
+    width: auto;
+    display: flex;
+    height: auto;
+    margin-top: 30px;
+    padding-top: 30px;
+    flex-direction: column;
+    flex: wrap;
+}
+
+.c4 {
+    width: auto;
+    display: flex;
+    height: auto;
+    margin-top: 30px;
+    padding-top: 30px;
+    flex-direction: column;
+    flex: wrap;
+}
